@@ -14,9 +14,10 @@ You must have the following programs installed:
 
 ### Installing
 
-You will need to install the following in order to run the website:
+1. Once you have cloned the project, move it to the htdocs or www folder inside the MAMP/WAMP server application
 
-To see the sign up function you need to install the .sql file from the 'data' folder, this can be done in the Terminal or through phpMyAdmin. Name the database 'db_roku'.
+2. To see the sign up function you need to install the .sql file from the 'data' folder, this can be done in the Terminal or through phpMyAdmin. Name the database 'db_roku'.
+
 
 ## Deployment
 

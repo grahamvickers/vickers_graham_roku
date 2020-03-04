@@ -48,3 +48,7 @@ You must have the following programs installed:
 ## Acknowledgments
 
 * Big thanks to [Trevor](https://github.com/Trevor-FanshaweC) for teaching me the necessary programs and functions to complete this project.
+
+## License 
+
+MIT

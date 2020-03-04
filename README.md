@@ -43,7 +43,7 @@ You must have the following programs installed:
 
 ## Authors
 
-* **Graham Vickers** - *Lead Backend Developer, Assistant Frontend Developer, Lead Motion Design* - [Fanshawe College Student](https://github.com/grahamvickers)
+* **Graham Vickers** - *Lead Backend & Frontend Developer* - [Fanshawe College Student](https://github.com/grahamvickers)
 
 ## Acknowledgments
 
